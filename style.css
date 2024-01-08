@@ -35,7 +35,7 @@ body {
 .add-input {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .add-input-wrapper {
@@ -134,7 +134,7 @@ li > label {
 }
 
 li > input[type="text"] {
-  width: 226px
+  width: 226px;
 }
 
 button.btn-delete img {
@@ -155,12 +155,12 @@ ul#completed-list label {
 
 /* Edit Task */
 ul li input[type=text] {
-  display: none
+  display: none;
 }
 
 ul li.list-item-edit input[type=text] {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 ul li.list-item-edit  label {
